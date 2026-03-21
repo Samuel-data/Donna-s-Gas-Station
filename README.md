@@ -1,6 +1,6 @@
 
 **Description**
-Donna is facing new competition. She believes her competitor is impacting the gallons of gas she sells. To find out she hired a data analyst to help understand the effects of her competitor’s prices on the total gallons sold she sold on the same days.  
+Donna is facing new competition. She believes her competitor is impacting the gallons of gas she sells. To find out she hired a data analyst (that's me in this scenario) to help understand the effects of her competitor’s prices on the total gallons sold she sold on the same days.  
 
 **Business Problem**
 The problem is what price Donna can set to boost her overall sales while beating her competitor. Her competitor likely does the same and if not she should do so first and collect more data in the long run.
